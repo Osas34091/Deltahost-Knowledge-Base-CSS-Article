@@ -15,6 +15,12 @@ h1 {
     margin-bottom: 20px;
 }
 
+.titulo h1 img {
+    max-width: 100%; !important
+    height: auto; !important
+    display: inline-block;
+}
+
 p {
     margin: 20px 0;
     line-height: 1.6;
