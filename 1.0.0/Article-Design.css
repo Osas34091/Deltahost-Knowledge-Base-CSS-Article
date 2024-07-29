@@ -9,7 +9,7 @@ h1 {
     color: #248AFF; /* Terciario */
     margin-bottom: 10px;
 }
-h1 img {
+#Logo_Articulo {
     max-width: 100%;
     height: auto;
 }
