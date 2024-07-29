@@ -29,12 +29,7 @@ hr {
     background: #1E1F22; /* Secundario */
     margin: 20px 0;
 }
-img {
-    display: block;
-    margin: 20px auto;
-    max-width: 100%;
-    height: auto;
-}
+
 .step-list {
     list-style: decimal inside;
     padding-left: 20px;
