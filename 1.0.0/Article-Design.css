@@ -15,7 +15,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.titulo img {
+.titulo h1 img {
     max-width: 100%; !important
     height: auto; !important
 }
