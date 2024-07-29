@@ -1,52 +1,52 @@
-.t-body {
+body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
     padding: 20px;
 }
-.t-title-main {
+h1 {
     text-align: center;
     font-size: 2.5rem;
     color: #444;
     margin-bottom: 10px;
 }
-.t-title-main img {
+h1 img {
     max-width: 100%;
     height: auto;
 }
-.t-titulo {
+.titulo {
     font-size: 2.5rem;
     color: #333;
     margin-bottom: 20px;
 }
-.t-paragraph {
+p {
     margin: 10px 0;
+    line-height: 1.6;
 }
-.t-hr {
+hr {
     border: none;
     height: 2px;
     background: #ddd;
     margin: 20px 0;
 }
-.t-img {
+img {
     display: block;
     margin: 20px auto;
     max-width: 100%;
     height: auto;
 }
-.t-step-list {
+.step-list {
     list-style: decimal inside;
     padding-left: 20px;
 }
-.t-step-list li {
+.step-list li {
     margin: 10px 0;
 }
-.t-highlight {
+.highlight {
     font-weight: bold;
     color: #555;
 }
-.t-subtitle {
+h2 {
     text-align: center;
     font-size: 2rem;
     color: #444;
