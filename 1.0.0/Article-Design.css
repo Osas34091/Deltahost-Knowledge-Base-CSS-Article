@@ -9,15 +9,17 @@ h1 {
     color: #248AFF; /* Terciario */
     margin-bottom: 10px;
 }
-.Logo_Articulo img {
-    max-width: 100%;
-    height: auto;
-}
 .titulo {
     font-size: 2.5rem;
     color: #FDD700; /* Warning */
     margin-bottom: 20px;
 }
+
+.titulo img {
+    max-width: 100%; !important
+    height: auto; !important
+}
+
 p {
     margin: 20px 0;
     line-height: 1.6;
